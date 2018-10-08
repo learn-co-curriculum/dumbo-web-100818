@@ -9,9 +9,10 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 | **Module** | **Topic**                 | **Video**                         | **Code**                         |
 | ---------- | ------------------------- | --------------------------------  | ----------------------------     |
-| 1          | Hashketball Review        | [Video][hashketball-video]        | [Code][hashketball-code]         |
+| 1          | Hashketball Review        | [Video Pt.2][hashketball-video-1] [Video Pt.2][hashketball-video-2]       | [Code][hashketball-code]         |
 
 
-[hashketball-video]: http://commingsoon.com/
-[hashketball-code]: http://commingsoon.com/
+[hashketball-video-1]: http://commingsoon.com/
+[hashketball-video-2]: http://commingsoon.com/
+[hashketball-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/01-hashketball-review
 
