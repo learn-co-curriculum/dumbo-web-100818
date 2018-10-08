@@ -12,7 +12,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 1          | Hashketball Review        | [Video Pt.1][hashketball-video-1] & [Video Pt.2][hashketball-video-2]       | [Code][hashketball-code]         |
 
 
-[hashketball-video-1]: https://youtu.be/4Cle7PUzoxA
+[hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
 [hashketball-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/01-hashketball-review
 
