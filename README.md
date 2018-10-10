@@ -10,7 +10,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | **Module** | **Topic**                 | **Video**                         | **Code**                         |
 | ---------- | ------------------------- | --------------------------------  | ----------------------------     |
 | 1          | Hashketball Review        | [Video Pt.1][hashketball-video-1] & [Video Pt.2][hashketball-video-2]       | [Code][hashketball-code]         |
-| 1          | Hashes and the Internet        | [Video][hashes-and-the-internet-video]        | [Code][hashes-and-the-internet-video]         |
+| 1          | Hashes and the Internet        | [Video][hashes-and-the-internet-video]        | [Code][hashes-and-the-internet-code]         |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
