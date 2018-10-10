@@ -10,8 +10,8 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | **Module** | **Topic**                 | **Video**                         | **Code**                         |
 | ---------- | ------------------------- | --------------------------------  | ----------------------------     |
 | 1          | Hashketball Review        | [Video Pt.1][hashketball-video-1] & [Video Pt.2][hashketball-video-2]       | [Code][hashketball-code]         |
-| 1          | Hashes and the Internet        | [Video][hashes-and-the-internet-video]        | [Code][hashes-and-the-internet-code]         |
-
+| 1          | Hashes and the Internet        | [Video][intro-oo-video]        | [Code][hashes-and-the-internet-code]         |
+| 1          | Intro to OO        | [Video][hashes-and-the-internet-video]        | [Code][intro-oo-code]         |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -19,3 +19,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [hashes-and-the-internet-video]: https://youtu.be/aA6NhxV932w
 [hashes-and-the-internet-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/02-hashes-and-the-internet
+
+[intro-oo-video]: https://youtu.be/ptQlSRAWsWM
+[intro-oo-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/03-intro-oo
