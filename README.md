@@ -12,6 +12,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 1  | Hashketball Review   | [Video Pt.1][hashketball-video-1] & [Video Pt.2][hashketball-video-2] | [Code][hashketball-code]   |
 | 1  | Hashes and the Internet    | [Video][hashes-and-the-internet-video]  | [Code][hashes-and-the-internet-code]   |
 | 1          | Intro to OO        | [Video][intro-oo-video]      | [Code][intro-oo-code]         |
+| 1          | One to Many OO     | COMING SOON                  | COMING SOON                   |
+| 1          | Many to Many OO    | COMING SOON                  | [Code][many-to-many-code]     |
+| 1          | Inheritance        | COMING SOON                  | [Code][intro-oo-code]         |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -22,3 +25,10 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [intro-oo-video]: https://youtu.be/ptQlSRAWsWM
 [intro-oo-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/03-intro-oo
+
+
+[many-to-many-video]: 
+[many-to-many-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/04-many-many
+
+[inheritance-video]: 
+[inheritance-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/05-inheritance
