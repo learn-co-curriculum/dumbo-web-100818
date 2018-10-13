@@ -27,8 +27,8 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [intro-oo-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/03-intro-oo
 
 
-[many-to-many-video]: 
+[many-to-many-video]: idk
 [many-to-many-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/04-many-many
 
-[inheritance-video]: 
+[inheritance-video]: odl
 [inheritance-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/05-inheritance
