@@ -15,6 +15,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 1          | One to Many OO     | COMING SOON                  | COMING SOON                   |
 | 1          | Many to Many OO    | [Video][many-to-many-video]  | [Code][many-to-many-code]     |
 | 1          | Inheritance        | [Video][inheritance-video]   | [Code][inheritance-code]      |
+| 1          | Intro ORMs        | [Video][intro-orm-video]   | [Code][intro-orm-code]      |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -32,3 +33,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [inheritance-video]: https://youtu.be/nC2TJaFY4c8
 [inheritance-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/05-inheritance
+
+[intro-orm-video]: https://youtu.be/AQHH3Jo9b8w
+[intro-orm-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/07-intro-orms
