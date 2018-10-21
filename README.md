@@ -15,7 +15,8 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 1          | One to Many OO     | COMING SOON                  | COMING SOON                   |
 | 1          | Many to Many OO    | [Video][many-to-many-video]  | [Code][many-to-many-code]     |
 | 1          | Inheritance        | [Video][inheritance-video]   | [Code][inheritance-code]      |
-| 1          | Intro ORMs        | [Video][intro-orm-video]   | [Code][intro-orm-code]      |
+| 1          | Intro ORMs        | [Video][intro-orm-video] & [Mass Assignment][mass-assignment-video]   | [Code][intro-orm-code]      |
+| 1          | Intro ActiveRecord        | [Video][intro-active-record-video]   | [Code][intro-active-record-code]      |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -35,4 +36,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [inheritance-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/05-inheritance
 
 [intro-orm-video]: https://youtu.be/AQHH3Jo9b8w
+[mass-assignment-video]: https://youtu.be/Hr1-rpWFKP8
 [intro-orm-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/07-intro-orms
+
+[intro-active-record-video]: https://youtu.be/jLexrNI76QY
+[intro-active-record-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/08-active-record-intro
+
