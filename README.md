@@ -9,15 +9,18 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 | **Module** | **Topic**                 | **Video**                         | **Code**                         |
 | ---------- | ------------------------- | --------------------------------  | ----------------------------     |
-| 1  | Hashketball Review   | [Video Pt.1][hashketball-video-1] & [Video Pt.2][hashketball-video-2] | [Code][hashketball-code]   |
+| 1  | Hashketball Review [Video Pt.1][hashketball-video-1] & [Video Pt.2][hashketball-video-2] | [Code][hashketball-code]   |
 | 1  | Hashes and the Internet    | [Video][hashes-and-the-internet-video]  | [Code][hashes-and-the-internet-code]   |
-| 1          | Intro to OO        | [Video][intro-oo-video]      | [Code][intro-oo-code]         |
-| 1          | One to Many OO     | [Video][one-to-many-video]   | [Code][one-to-many-code]      |
-| 1          | Many to Many OO    | [Video][many-to-many-video]  | [Code][many-to-many-code]     |
-| 1          | Inheritance        | [Video][inheritance-video]   | [Code][inheritance-code]      |
-| 1          | Intro ORMs        | [Video][intro-orm-video] & [Mass Assignment][mass-assignment-video]   | [Code][intro-orm-code]      |
-| 1          | Intro ActiveRecord        | [Video][intro-active-record-video]   | [Code][intro-active-record-code]      |
-| 1          | ActiveRecord Associations | [Video][active-record-associations-video] | [Code][active-record-associations-code]      |
+| 1  | Intro to OO        | [Video][intro-oo-video]      | [Code][intro-oo-code]         |
+| 1  | One to Many OO     | [Video][one-to-many-video]   | [Code][one-to-many-code]      |
+| 1  | Many to Many OO    | [Video][many-to-many-video]  | [Code][many-to-many-code]     |
+| 1  | Inheritance        | [Video][inheritance-video]   | [Code][inheritance-code]      |
+| 1  | Intro ORMs      | [Video][intro-orm-video] & [Mass Assignment][mass-assignment-video]   | [Code][intro-orm-code]   |
+| 1  | Intro ActiveRecord        | [Video][intro-active-record-video]   | [Code][intro-active-record-code]      |
+| 1  | ActiveRecord Associations | [Video][active-record-associations-video] | [Code][active-record-associations-code]      |
+| 1  | Intro to Testing | [Video][intro-testing-video]  |  [Code][intro-testing-code] |
+| 2  | Rack and the Internet | [Video][intro-internet-video]  |  [Code][intro-internet-code]  |
+| 2  | Intro to Sinatra and MVC | [Video][intro-sinatra-video]  |  [Code][intro-sinatra-code]  |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -48,3 +51,12 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [active-record-associations-video]: https://youtu.be/-GvTMp6oJ9M
 [active-record-associations-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/08-active-record-intro
+
+[intro-testing-video]: https://youtu.be/wCobG04N_sc
+[intro-testing-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/10-intro-testing
+
+[intro-internet-video]: https://www.youtube.com/watch?v=GfVORUwbbJk
+[intro-internet-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/11-internet-intro
+
+[intro-sinatra-video]: https://www.youtube.com/watch?v=ghrlfORzedM
+[intro-sinatra-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/12-sinatra-mvc-intro
