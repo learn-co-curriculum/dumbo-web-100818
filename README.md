@@ -22,6 +22,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Rack and the Internet | [Video][intro-internet-video]  |  [Code][intro-internet-code]  |
 | 2  | Intro to Sinatra and MVC | [Video][intro-sinatra-video]  |  [Code][intro-sinatra-code]  |
 | 2  | Sinatra Forms | [Video][sinatra-forms-video]  |  [Code][sinatra-forms-code]  |
+| 2  | REST Create & Read | [Video][rest-create-read-video]  |  [Code][rest-create-read-code]  |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -64,3 +65,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [sinatra-forms-video]: https://youtu.be/Ct6eh8Q3WAg
 [sinatra-forms-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/13-sinatra-forms
+
+
+[rest-create-read-video]: https://youtu.be/UXoIuPf974E
+[rest-create-read-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/14-create-read
