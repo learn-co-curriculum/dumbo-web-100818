@@ -21,6 +21,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 1  | Intro to Testing | [Video][intro-testing-video]  |  [Code][intro-testing-code] |
 | 2  | Rack and the Internet | [Video][intro-internet-video]  |  [Code][intro-internet-code]  |
 | 2  | Intro to Sinatra and MVC | [Video][intro-sinatra-video]  |  [Code][intro-sinatra-code]  |
+| 2  | Sinatra Forms | [Video][sinatra-forms-video]  |  [Code][sinatra-forms-code]  |
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -60,3 +61,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [intro-sinatra-video]: https://www.youtube.com/watch?v=ghrlfORzedM
 [intro-sinatra-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/12-sinatra-mvc-intro
+
+[sinatra-forms-video]: https://youtu.be/Ct6eh8Q3WAg
+[sinatra-forms-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/13-sinatra-forms
