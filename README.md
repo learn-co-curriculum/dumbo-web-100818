@@ -23,8 +23,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Intro to Sinatra and MVC | [Video][intro-sinatra-video]  |  [Code][intro-sinatra-code]  |
 | 2  | Sinatra Forms | [Video][sinatra-forms-video]  |  [Code][sinatra-forms-code]  |
 | 2  | REST Create & Read | [Video][rest-create-read-video]  |  [Code][rest-create-read-code]  |
-| 2  | REST Update & Delete |[Video][rest-update-delete-video] | [Code][rest-update-delete-code] |
-| 2  | Sinatra Associations |[Video][sinatra-associations-video] | [Code][sinatra-associations-code] |
+| 2  | REST Update & Delete | [Video][rest-update-delete-video] | [Code][rest-update-delete-code] |
+| 2  | Sinatra Associations | [Video][sinatra-associations-video] | [Code][sinatra-associations-code] |
+| 2  | Intro to Rails | [Video][intro-rails-video] | [Code][intro-rails-code] |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -77,3 +78,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [sinatra-associations-video]: https://youtu.be/6bgjl5U8VfI
 [sinatra-associations-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/16-sinatra-associations
+
+[intro-rails-video]: https://youtu.be/rapnqi0dlps
+[intro-rails-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/17-intro-to-rails
