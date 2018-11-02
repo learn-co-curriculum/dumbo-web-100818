@@ -23,6 +23,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Intro to Sinatra and MVC | [Video][intro-sinatra-video]  |  [Code][intro-sinatra-code]  |
 | 2  | Sinatra Forms | [Video][sinatra-forms-video]  |  [Code][sinatra-forms-code]  |
 | 2  | REST Create & Read | [Video][rest-create-read-video]  |  [Code][rest-create-read-code]  |
+| 2  | REST Update & Delete |[Video][rest-update-delete-video] | [Code][rest-update-delete-code] |
+| 2  | Sinatra Associations |[Video][sinatra-associations-video] | [Code][sinatra-associations-code] |
+
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -66,6 +69,11 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [sinatra-forms-video]: https://youtu.be/Ct6eh8Q3WAg
 [sinatra-forms-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/13-sinatra-forms
 
-
 [rest-create-read-video]: https://youtu.be/UXoIuPf974E
 [rest-create-read-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/14-create-read
+
+[rest-update-delete-video]: https://youtu.be/YRql3rvUE2E
+[rest-update-delete-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/15-update-delete
+
+[sinatra-associations-video]: https://youtu.be/6bgjl5U8VfI
+[sinatra-associations-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/16-sinatra-associations
