@@ -26,6 +26,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | REST Update & Delete | [Video][rest-update-delete-video] | [Code][rest-update-delete-code] |
 | 2  | Sinatra Associations | [Video][sinatra-associations-video] | [Code][sinatra-associations-code] |
 | 2  | Intro to Rails | [Video][intro-rails-video] | [Code][intro-rails-code] |
+| 2  | Rails Forms | [Video][rails-forms-video] | [Code][rails-forms-code] |
+| 2  | Rails Associations | [Video][rails-associations-video] | [Code][rails-associations-code] |
+| 2  | Rails Validations | [Video][rails-validations-video] | [Code][rails-validations-code] |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -81,3 +84,12 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [intro-rails-video]: https://youtu.be/rapnqi0dlps
 [intro-rails-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/17-intro-to-rails
+
+[rails-forms-video]: https://youtu.be/nyUJhc9qmfk
+[rails-forms-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/18-rails-forms-crud
+
+[rails-associations-video]: https://youtu.be/nnRh__86ILU
+[rails-associations-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/19-rails-associations
+
+[rails-validations-video]: https://www.youtube.com/watch?v=P85zvdPhtVU
+[rails-validations-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/20-rails-validations
