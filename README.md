@@ -29,6 +29,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Rails Forms | [Video][rails-forms-video] | [Code][rails-forms-code] |
 | 2  | Rails Associations | [Video][rails-associations-video] | [Code][rails-associations-code] |
 | 2  | Rails Validations | [Video][rails-validations-video] | [Code][rails-validations-code] |
+| 2  | Sessions & Cookies | [Video][sessions-cookies-video] | [Code][sessions-cookies-code] |
+| 2  | Authorization | [Video][auth-1-video] [Video][auth-2-video]  | (See below) |
+| 2  | Authentication | [Video][auth-3-video] | [Code][auth-code] |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -93,3 +96,12 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [rails-validations-video]: https://www.youtube.com/watch?v=P85zvdPhtVU
 [rails-validations-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/20-rails-validations
+
+[sessions-cookies-video]: https://youtu.be/kxKXyJ4-tmc
+[sessions-cookies-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/21-sessions-cookies
+
+[auth-1-video]: https://youtu.be/6imjQ2X_qfs
+[auth-2-video]: https://youtu.be/SYaydiw-JTA
+[auth-3-video]: https://youtu.be/A2OnRpy9PBQ
+
+[auth-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/22-auth
