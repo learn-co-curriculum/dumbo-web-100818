@@ -30,7 +30,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Rails Associations | [Video][rails-associations-video] | [Code][rails-associations-code] |
 | 2  | Rails Validations | [Video][rails-validations-video] | [Code][rails-validations-code] |
 | 2  | Sessions & Cookies | [Video][sessions-cookies-video] | [Code][sessions-cookies-code] |
-| 2  | Authorization | [Video][auth-1-video] [Video][auth-2-video]  | (See below) |
+| 2  | Authorization | [Video 1][auth-1-video] [Video 2][auth-2-video]  | (See below) |
 | 2  | Authentication | [Video][auth-3-video] | [Code][auth-code] |
 
 
