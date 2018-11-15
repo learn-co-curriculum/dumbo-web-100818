@@ -32,6 +32,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Sessions & Cookies | [Video][sessions-cookies-video] | [Code][sessions-cookies-code] |
 | 2  | Authorization | [Video 1][auth-1-video] [Video 2][auth-2-video]  | (See below) |
 | 2  | Authentication | [Video][auth-3-video] | [Code][auth-code] |
+| 2  | CSS | [Video][css-video] | [Code][css-code] |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -105,3 +106,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [auth-3-video]: https://youtu.be/A2OnRpy9PBQ
 
 [auth-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/22-auth
+
+[css-video]: https://youtu.be/JQ42jFHupcw
+[css-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/23-css
