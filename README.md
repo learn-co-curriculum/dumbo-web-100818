@@ -34,6 +34,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Authentication | [Video][auth-3-video] | [Code][auth-code] |
 | 2  | CSS | [Video][css-video] | [Code][css-code] |
 | 3  | Intro to JS   | [video][intro-js-video]  | [code][intro-js-code]  |
+| 3  | Scope and Callbacks   | Coming Soon  | [code][scope-cb-code]  |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -114,3 +115,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [intro-js-video]: https://youtu.be/HxeC4sUUmAI
 [intro-js-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/24_intro_js
+<!-- [scope-cb-video]: -->
+[scope-cb-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/25_scopes
