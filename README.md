@@ -119,5 +119,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [scope-cb-video]: https://youtu.be/xA3ptxe_dNw
 [scope-cb-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/25_scopes
 
-[fetch-video]: https://youtu.be/3J1eD_SZAKI
+[fetch-video]: https://youtu.be/kGeEXP8xPGI
 [fetch-code]: https://github.com/learn-co-students/dumbo-web-100818
