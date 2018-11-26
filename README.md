@@ -36,6 +36,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 3  | Intro to JS   | [video][intro-js-video]  | [code][intro-js-code]  |
 | 3  | Scope and Callbacks   | Coming Soon  | [code][scope-cb-code]  |
 | 3  | Fetch | [Video][fetch-video] | [code][fetch-code] |
+| 3  | Recap (Dog Show)  | [Video][dog-show-video]  | [code][dog-show-code]   |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -121,3 +122,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [fetch-video]: https://youtu.be/kGeEXP8xPGI
 [fetch-code]: https://github.com/learn-co-students/dumbo-web-100818
+
+[dog-show-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/27-recap
+[dog-show-video]: https://youtu.be/ZxFxbqLDWZ8
