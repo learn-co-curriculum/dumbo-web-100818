@@ -34,9 +34,10 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2  | Authentication | [Video][auth-3-video] | [Code][auth-code] |
 | 2  | CSS | [Video][css-video] | [Code][css-code] |
 | 3  | Intro to JS   | [video][intro-js-video]  | [code][intro-js-code]  |
-| 3  | Scope and Callbacks   | Coming Soon  | [code][scope-cb-code]  |
+| 3  | Scope and Callbacks   | [video][scope-cb-video]  | [code][scope-cb-code]  |
 | 3  | Fetch | [Video][fetch-video] | [code][fetch-code] |
 | 3  | Recap (Dog Show)  | [Video][dog-show-video]  | [code][dog-show-code]   |
+| 3  | Rails API         | [Video][rails-api-video]  | [code][rails-api-code] |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -125,3 +126,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [dog-show-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/27-recap
 [dog-show-video]: https://youtu.be/ZxFxbqLDWZ8
+
+[rails-api-video]: https://youtu.be/ni2yHP9smPA
+[rails-api-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/30-rails-api
