@@ -38,6 +38,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 3  | Fetch | [Video][fetch-video] | [code][fetch-code] |
 | 3  | Recap (Dog Show)  | [Video][dog-show-video]  | [code][dog-show-code]   |
 | 3  | Rails API         | [Video][rails-api-video]  | [code][rails-api-code] |
+| 3  | JS OOP            | [Video][js-oop-video]           | [code][js-oop-code] |
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -129,3 +130,6 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [rails-api-video]: https://youtu.be/ni2yHP9smPA
 [rails-api-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/30-rails-api
+
+[js-oop-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/31-oop
+[js-oop-video]: https://youtu.be/7uMTw4rWV5E
