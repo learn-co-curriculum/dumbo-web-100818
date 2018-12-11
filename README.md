@@ -39,7 +39,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 3  | Recap (Dog Show)  | [Video][dog-show-video]  | [code][dog-show-code]   |
 | 3  | Rails API         | [Video][rails-api-video]  | [code][rails-api-code] |
 | 3  | JS OOP            | [Video][js-oop-video]           | [code][js-oop-code] |
-| 3  | `this`           | [Video][js-this-video]  | [code][js-this-code]   |   
+| 4  | React Props          | [Video][react-props-video]  | [code][react-props-code]   |   
+| 4  | React State & Events          | [Video][react-state-events-video]  | [code][react-state-events-code]   |   
+| 4  | React State & Forms           | [Video][react-state-forms-video]  | [code][react-state-forms-code]   |   
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -137,3 +139,12 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [js-this-video]: https://www.youtube.com/watch?v=dsUGDZ3f3hA&feature=youtu.be
 [js-this-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/32-this
+
+[react-props-video]: https://youtu.be/3nZePWarPvA
+[react-props-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-state-props/33-react-state-props
+
+[react-state-events-video]: https://youtu.be/I6-WBtIc74I
+[react-state-events-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-state-events/33-react-state-props
+
+[react-state-forms-video]: https://youtu.be/aEJALTd2I_E
+[react-state-forms-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-state-forms/33-react-state-props
