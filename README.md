@@ -42,6 +42,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 4  | React Props          | [Video][react-props-video]  | [code][react-props-code]   |   
 | 4  | React State & Events          | [Video][react-state-events-video]  | [code][react-state-events-code]   |   
 | 4  | React State & Forms           | [Video][react-state-forms-video]  | [code][react-state-forms-code]   |   
+| 4  | React Hogs Review           | [Video][react-hogs-review-video]  | 
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
@@ -148,3 +149,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [react-state-forms-video]: https://youtu.be/aEJALTd2I_E
 [react-state-forms-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-state-forms/33-react-state-props
+
+[react-hogs-review-video]: https://youtu.be/IW28wIwvNwo
