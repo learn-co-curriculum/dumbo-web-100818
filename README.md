@@ -43,7 +43,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 4  | React State & Events          | [Video][react-state-events-video]  | [code][react-state-events-code]   |   
 | 4  | React State & Forms           | [Video][react-state-forms-video]  | [code][react-state-forms-code]   |   
 | 4  | React Hogs Review           | [Video][react-hogs-review-video]  | 
-| 4  | React Hogs Review           | [Video][react-component-lifecycle-video]  | [code][react-component-lifecycle-code] 
+| 4  | React Component Lifecycle Methods           | [Video][react-component-lifecycle-video]  | [code][react-component-lifecycle-code] 
 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
