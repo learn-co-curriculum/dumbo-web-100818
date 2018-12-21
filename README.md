@@ -44,8 +44,8 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 4  | React State & Forms           | [Video][react-state-forms-video]  | [code][react-state-forms-code]   |   
 | 4  | React Hogs Review           | [Video][react-hogs-review-video]  | 
 | 4  | React Component Lifecycle Methods           | [Video][react-component-lifecycle-video]  | [code][react-component-lifecycle-code] 
-| 4  | React Router           | [Video][react-router-video]  | 
-| 4  | React Auth           | [Video][react-auth-video]  | 
+| 4  | React Router           | [Video][react-router-video]  | [code][react-router-code] 
+| 4  | React Auth           | [Video][react-auth-video]  | [code][react-auth-code] 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -158,4 +158,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [react-component-lifecycle-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-component-lifecycles/33-react-state-props
 
 [react-router-video]: https://youtu.be/SEp5jq_jmx8
+[react-router-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-router/34-react-router
+
 [react-auth-video]: https://youtu.be/WAX6OhRzOlc
+[react-auth-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-auth/35-react-auth
