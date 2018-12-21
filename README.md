@@ -44,7 +44,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 4  | React State & Forms           | [Video][react-state-forms-video]  | [code][react-state-forms-code]   |   
 | 4  | React Hogs Review           | [Video][react-hogs-review-video]  | 
 | 4  | React Component Lifecycle Methods           | [Video][react-component-lifecycle-video]  | [code][react-component-lifecycle-code] 
-
+| 4  | React Router           | [Video][react-router-video]  | 
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -155,3 +155,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [react-component-lifecycle-video]: https://youtu.be/5QoQYJVYPDw
 [react-component-lifecycle-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-component-lifecycles/33-react-state-props
+
+[react-router-video]: https://youtu.be/SEp5jq_jmx8
