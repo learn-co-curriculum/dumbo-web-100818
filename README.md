@@ -165,4 +165,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 [react-auth-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-auth/35-react-auth
 
 [react-redux-video]: https://youtu.be/CYbs6UlljeM
-[react-redux-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/react-auth/35-react-auth
+[react-redux-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/33-react-redux
