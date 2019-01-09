@@ -44,9 +44,11 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 4  | React State & Forms           | [Video][react-state-forms-video]  | [code][react-state-forms-code]   |   
 | 4  | React Hogs Review           | [Video][react-hogs-review-video]  | 
 | 4  | React Component Lifecycle Methods           | [Video][react-component-lifecycle-video]  | [code][react-component-lifecycle-code] 
-| 4  | React Router           | [Video][react-router-video]  | [code][react-router-code] 
-| 4  | React Auth           | [Video][react-auth-video]  | [code][react-auth-code] 
-| 4  | React Redux           | [Video][react-redux-video]  | [code][react-redux-code] 
+| 4  | React Router      | [Video][react-router-video]    | [code][react-router-code]  |
+| 4  | React Auth        | [Video][react-auth-video]      | [code][react-auth-code]    |
+| 4  | React Redux       | [Video][react-redux-video]     | [code][react-redux-code]   |
+| 5  | Redux Thunk       | [Video][thunk-video]           | [code][thunk-code]         |
+| 5  | Combine Reducers  | [Video][combine-reducers-video]| [code][combine-reducers-code]|
 
 [hashketball-video-1]: https://www.youtube.com/watch?v=OJmf-iDCeCo
 [hashketball-video-2]: https://youtu.be/4Cle7PUzoxA
@@ -166,3 +168,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [react-redux-video]: https://youtu.be/CYbs6UlljeM
 [react-redux-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/33-react-redux
+
+[thunk-video]: https://youtu.be/kDRkxPrDHPo
+[thunk-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/34-redux-thunk
+
+[combine-reducers-video]: https://youtu.be/AGebf_XCym4
+[combine-reducers-code]: https://github.com/learn-co-students/dumbo-web-100818/tree/master/35-combine-reducers
